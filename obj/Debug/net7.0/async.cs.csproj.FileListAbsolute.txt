@@ -1,0 +1,15 @@
+C:\Users\olivi\Desktop\C#\test\async\bin\Debug\net7.0\async.cs.exe
+C:\Users\olivi\Desktop\C#\test\async\bin\Debug\net7.0\async.cs.deps.json
+C:\Users\olivi\Desktop\C#\test\async\bin\Debug\net7.0\async.cs.runtimeconfig.json
+C:\Users\olivi\Desktop\C#\test\async\bin\Debug\net7.0\async.cs.dll
+C:\Users\olivi\Desktop\C#\test\async\bin\Debug\net7.0\async.cs.pdb
+C:\Users\olivi\Desktop\C#\test\async\obj\Debug\net7.0\async.cs.csproj.AssemblyReference.cache
+C:\Users\olivi\Desktop\C#\test\async\obj\Debug\net7.0\async.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olivi\Desktop\C#\test\async\obj\Debug\net7.0\async.cs.AssemblyInfoInputs.cache
+C:\Users\olivi\Desktop\C#\test\async\obj\Debug\net7.0\async.cs.AssemblyInfo.cs
+C:\Users\olivi\Desktop\C#\test\async\obj\Debug\net7.0\async.cs.csproj.CoreCompileInputs.cache
+C:\Users\olivi\Desktop\C#\test\async\obj\Debug\net7.0\async.cs.dll
+C:\Users\olivi\Desktop\C#\test\async\obj\Debug\net7.0\refint\async.cs.dll
+C:\Users\olivi\Desktop\C#\test\async\obj\Debug\net7.0\async.cs.pdb
+C:\Users\olivi\Desktop\C#\test\async\obj\Debug\net7.0\async.cs.genruntimeconfig.cache
+C:\Users\olivi\Desktop\C#\test\async\obj\Debug\net7.0\ref\async.cs.dll
